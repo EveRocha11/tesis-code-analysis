@@ -1,0 +1,12 @@
+# Dependencias del proyecto
+
+# Para pruebas
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Para análisis de código
+pylint==3.0.3
+flake8==7.0.0
+
+# Opcional: cliente Python para SonarQube API
+# python-sonarqube-api==2.2.0
